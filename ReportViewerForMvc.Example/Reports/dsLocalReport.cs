@@ -1,6 +1,8 @@
-﻿namespace ReportViewerForMvc.Example.Reports {
-    
-    
-    public partial class dsLocalReport {
+﻿namespace ReportViewerForMvc.Example.Reports
+{
+
+
+    public partial class dsLocalReport
+    {
     }
 }
