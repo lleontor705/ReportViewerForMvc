@@ -11,7 +11,13 @@ Server controls (like ReportViewer) cannot be used within Razor views. In order 
 This library will setup all of that work for you, and will provide easy access to display your report. Also, it will auto-resize the report on your webpage to get the desired display.
 
 ## Where can I get it?
+This is a version modified to .Netframework 4.6.1
+Download & install from [NuGet](https://www.nuget.org/packages/Chaso.ReportViewerForMvc/).
 
+```PowerShell
+Install-Package Chaso.ReportViewerForMvc -Version 1.1.1.1
+```
+## The Original Source Is!
 Download & install from [NuGet](https://www.nuget.org/packages/ReportViewerForMvc/).
 
 ```PowerShell
